@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("zmena1");
         System.out.println("Změna2.");
+        System.out.println("nepouzita zmena 1");
     }
 }
